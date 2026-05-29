@@ -1,0 +1,43 @@
+{
+    "cities": [
+        "Ahmedabad",
+        "Bangalore",
+        "Chennai",
+        "Delhi NCR",
+        "Hyderabad",
+        "Indore",
+        "Jaipur",
+        "Lucknow",
+        "Mumbai",
+        "Pune"
+    ],
+    "property_types": [
+        "Builder Floor",
+        "Flat/Apartment",
+        "Independent House/Villa",
+        "Penthouse",
+        "Studio (1RK)"
+    ],
+    "age_categories": [
+        "Heritage",
+        "New Launch",
+        "Old",
+        "Ready to Move",
+        "Resale"
+    ],
+    "vastu_statuses": [
+        "No",
+        "Partially",
+        "Yes"
+    ],
+    "facings": [
+        "East",
+        "North",
+        "North-East",
+        "North-West",
+        "South",
+        "South-East",
+        "South-West",
+        "West"
+    ]
+}
