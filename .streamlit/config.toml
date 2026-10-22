@@ -1,0 +1,10 @@
+# Light theme with teal accents (the rest of the styling is custom CSS in app.py)
+[theme]
+base = "light"
+primaryColor = "#0F9D8A"
+backgroundColor = "#F7F9FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#16263F"
+
+[browser]
+gatherUsageStats = false
